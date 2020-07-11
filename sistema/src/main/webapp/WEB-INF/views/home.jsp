@@ -9,6 +9,6 @@
 	Hola Repositorio!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  El tiempo en el servidor es ${serverTime}. </P>
 </body>
 </html>
