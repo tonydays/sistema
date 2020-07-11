@@ -10,7 +10,5 @@
 </h1>
 
 <P>  El tiempo en el servidor es ${serverTime}. </P>
-
-<a href="www.gogle.com">google</a>
 </body>
 </html>
