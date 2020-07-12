@@ -9,5 +9,6 @@
 <body>
 	<h1>Nuevo Usuario</h1>
 	<h4 style="color:red;">reclutando</h4>
+	Se puede gusrdar un poco de texto
 </body>
 </html>
