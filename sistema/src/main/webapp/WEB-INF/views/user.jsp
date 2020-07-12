@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Nuevo Usuario</h1>
-	<h4>reclutando</h4>
+	<h4 style="color:red;">reclutando</h4>
 </body>
 </html>
